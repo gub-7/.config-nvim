@@ -25,6 +25,7 @@ return {
         type = "python",
         request = "launch",
         name = "Launch file",
+        console = "integratedTerminal",
         program = "${file}",  -- Use the current file as the entry point
         pythonPath = function()
           -- Try to use a virtual environment if available
