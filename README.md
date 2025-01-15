@@ -49,7 +49,7 @@ mv ~/.config/nvim ~/.config/nvim.backup
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/gub-7/nvim-config.git ~/.config/nvim
+git clone https://github.com/gub-7/.config-nvim.git ~/.config/nvim
 ```
 
 3. Start Neovim and let the plugins install:
